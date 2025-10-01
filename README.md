@@ -6,4 +6,5 @@ API TESTING
 
 [CountryInfoService SOAP API TESTING](https://www.postman.com/spacecraft-geologist-70414751/workspace/junior/collection/40691067-25b507c5-3b16-412e-98aa-9c72c133e515?action=share&creator=40691067&active-environment=40691067-b719ece7-a2c7-448f-bce4-3575a56756ea)
 
-[Test suites Demo Shopping.pdf](https://github.com/user-attachments/files/22649051/Test.suits.Demo.Shopping.pdf)
+[Test suites Demo Shopping.pdf](https://github.com/user-attachments/files/22649400/Test.suites.Demo.Shopping.pdf)
+
